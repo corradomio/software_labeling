@@ -1,2 +1,2 @@
 # Redirect page
-The repository is at the following address: https://github.com/cjglab/software_labelling
+The repository of the ICSE 2023 paper is at the following address: https://github.com/cjglab/software_labelling
