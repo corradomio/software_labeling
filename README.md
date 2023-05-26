@@ -1,2 +1,4 @@
-# Redirect page
-The repository of the ICSE 2023 paper is at the following address: https://github.com/cjglab/software_labelling
+# Software Architecture Decomposition
+This repository contains supplementary material and data related to the papaer about Software Architecture Decomposition under revision
+
+
